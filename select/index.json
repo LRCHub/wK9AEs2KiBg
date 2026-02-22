@@ -1,0 +1,144 @@
+{
+  "version": 1,
+  "base_track": "もしも",
+  "base_artist": "星野 源",
+  "createdAt": "2026-02-22T16:23:18.773026Z",
+  "candidates": [
+    {
+      "id": "lrclib_1",
+      "source": "lrclib",
+      "title": "もしも",
+      "artist": "Ayano Kaneko",
+      "has_synced": true,
+      "path": "select/01_もしも_Ayano_Kaneko.lrc"
+    },
+    {
+      "id": "lrclib_2",
+      "source": "lrclib",
+      "title": "もしも",
+      "artist": "Kaneko Ayano",
+      "has_synced": true,
+      "path": "select/02_もしも_Kaneko_Ayano.lrc"
+    },
+    {
+      "id": "lrclib_3",
+      "source": "lrclib",
+      "title": "もしも",
+      "artist": "ナナツカゼ, PIKASONIC, Dankidz",
+      "has_synced": true,
+      "path": "select/03_もしも_ナナツカゼ,_PIKASONIC,_Dankidz.lrc"
+    },
+    {
+      "id": "lrclib_4",
+      "source": "lrclib",
+      "title": "もしも",
+      "artist": "ナナツカゼ",
+      "has_synced": true,
+      "path": "select/04_もしも_ナナツカゼ.lrc"
+    },
+    {
+      "id": "lrclib_5",
+      "source": "lrclib",
+      "title": "もしも、僕がいなくても。",
+      "artist": "HIRAIDAI",
+      "has_synced": true,
+      "path": "select/05_もしも、僕がいなくても。_HIRAIDAI.lrc"
+    },
+    {
+      "id": "lrclib_6",
+      "source": "lrclib",
+      "title": "もしも、僕がいなくても。",
+      "artist": "平井 大",
+      "has_synced": true,
+      "path": "select/06_もしも、僕がいなくても。_平井_大.lrc"
+    },
+    {
+      "id": "lrclib_7",
+      "source": "lrclib",
+      "title": "もしも",
+      "artist": "カネコアヤノ",
+      "has_synced": true,
+      "path": "select/07_もしも_カネコアヤノ.lrc"
+    },
+    {
+      "id": "lrclib_8",
+      "source": "lrclib",
+      "title": "もしも、僕がいなくても。",
+      "artist": "平井大",
+      "has_synced": true,
+      "path": "select/08_もしも、僕がいなくても。_平井大.lrc"
+    },
+    {
+      "id": "lrclib_9",
+      "source": "lrclib",
+      "title": "もしも、僕がいなくても。 - moshimobokugainakutemo",
+      "artist": "HIRAIDAI",
+      "has_synced": true,
+      "path": "select/09_もしも、僕がいなくても。_-_moshimobokugainakutemo_HIRAIDAI.lrc"
+    },
+    {
+      "id": "lrclib_10",
+      "source": "lrclib",
+      "title": "もしも",
+      "artist": "MIREI",
+      "has_synced": true,
+      "path": "select/10_もしも_MIREI.lrc"
+    },
+    {
+      "id": "lrclib_11",
+      "source": "lrclib",
+      "title": "...もしも",
+      "artist": "Anzen Chitai (安全地帯)",
+      "has_synced": true,
+      "path": "select/11_...もしも_Anzen_Chitai_(安全地帯).lrc"
+    },
+    {
+      "id": "lrclib_12",
+      "source": "lrclib",
+      "title": "もしも (Paused)",
+      "artist": "カネコアヤノ",
+      "has_synced": true,
+      "path": "select/12_もしも_(Paused)_カネコアヤノ.lrc"
+    },
+    {
+      "id": "lrclib_13",
+      "source": "lrclib",
+      "title": "もしも、もしも",
+      "artist": "agunesmusic",
+      "has_synced": false,
+      "path": "select/13_もしも、もしも_agunesmusic.txt"
+    },
+    {
+      "id": "lrclib_14",
+      "source": "lrclib",
+      "title": "もしも",
+      "artist": "CHEMISTRY",
+      "has_synced": true,
+      "path": "select/14_もしも_CHEMISTRY.lrc"
+    },
+    {
+      "id": "lrclib_15",
+      "source": "lrclib",
+      "title": "もしも？",
+      "artist": "FrostBorne",
+      "has_synced": false,
+      "path": "select/15_もしも_FrostBorne.txt"
+    },
+    {
+      "id": "lrclib_16",
+      "source": "lrclib",
+      "title": "01_もしも、音を発するとおしおきしてくるドSな店員がいる漫画喫茶があったら...",
+      "artist": "だいしゅきホールディングス",
+      "has_synced": true,
+      "path": "select/16_01_もしも、音を発するとおしおきしてくるドSな店員がいる漫画喫茶があったら..._だいしゅきホールディングス.lrc"
+    },
+    {
+      "id": "petitlyrics_1",
+      "source": "petitlyrics",
+      "title": "もしも",
+      "artist": "星野源",
+      "has_synced": false,
+      "path": "select/pl_01_もしも_星野源.txt"
+    }
+  ]
+}
